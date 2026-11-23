@@ -1,0 +1,4 @@
+interface:
+  display_name: "河图口播视频剪辑"
+  short_description: "从真人露脸开场，到按词触发的图解、弹缩蒙版、字幕与拟音，精剪知识口播"
+  default_prompt: "使用 $hetu-koubo-edit 剪辑这段真人口播。先核稿、清气口并逐句规划，再输出带字幕、动效和拟音的成片。"
