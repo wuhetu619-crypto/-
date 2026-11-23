@@ -15,7 +15,7 @@
 
 | 触发情境与用法 | 借哪个动作 | 案例与画幅 |
 |---|---|---|
-| 把悬赏金额或本期问题放在标题落下的那一拍，再切回真人。 | 截取标题落位那一拍，首句只做脸侧金额或关键词。 | [DEEP STAGE 开场点火标题](https://motiongit.com/@thepandaq/deep-stage-title-ignition) · 16:9 · [演示](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4) |
+| 首句讲金额时，全屏主播继续说话，让脸侧数字在重音上落位；整屏片头舞台只在后续章节使用。 | 截取标题落位那一拍，首句只做脸侧金额或关键词。 | [DEEP STAGE 开场点火标题](https://motiongit.com/@thepandaq/deep-stage-title-ignition) · 16:9 · [演示](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4) |
 | 把主播和受访者的肖像化成双色网点，再聚成题目，适合人物故事。 | 借网点聚合做人物介绍，安排在真人开场之后。 | [半调网点 · 人像标题](https://motiongit.com/@prism-studio/visual-art-a-halftone) · 16:9 · [演示](https://media.openaicut.com/previews/615/draft-zh-87b41df4a38a.mp4) |
 | 让关键词依次由粒子拼出来，适合一句口播中并列出现的几个概念。 | 每说一个并列词，粒子只拼出当前词。 | [DeepSeek 词语粒子](https://motiongit.com/@thepandaq/deepseek-word-morph) · 16:9 · [演示](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4) |
 | 书名或人物姓名可做成短促的墨迹揭字。作者标注支持透明叠加。 | 用笔触遮罩揭字，仅占人像一侧，保留干净留白。 | [水墨书法标题卡](https://motiongit.com/@fangcs/ink-brush-title) · 16:9 · [演示](https://media.openaicut.com/previews/1216/1.0.4-zh-46d64f694389.mp4) |
